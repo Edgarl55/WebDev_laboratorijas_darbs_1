@@ -1,0 +1,37 @@
+/*1. Paragraph*/
+p{
+	font-family: times new roman;
+    font-size: 14pt;
+    color: rgb(255, 255, 0);
+    background-color: rgb(127, 0, 255);
+	border-radius: 10px;
+	padding: 5px;
+
+}
+
+/*2. Div*/
+div{
+	font-family: arial;
+	font-size: 14pt;
+	color: rgb(255, 127, 0);
+	background-color: rgb(0, 255, 255);
+}
+
+/*3. li*/
+li{
+	font-family: calibri;
+	font-size: 12pt;
+	color: rgb(0, 0, 0);
+	background-color: rgb(0, 255, 255);
+}
+
+/*4. Img*/
+img{
+	border: solid;
+	border-width: 2px;
+	border-color: rgb(255, 0, 255);
+}
+
+#tour .w3-third button.highlight {
+    background-color: rgb(127, 0, 255) !important;
+}
